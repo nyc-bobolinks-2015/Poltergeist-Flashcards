@@ -1,0 +1,9 @@
+front,back
+each method returns the original array,TRUE
+map returns an original array,FALSE it returns a new array composed of the block result
+any? method returns a boolean,TRUE
+chunk method returns an enumerator,TRUE
+partition method returns and array,FALSE it returns 2 arrays one that meets the code block conditions and one contianing the balance
+reduce method returns an object,TRUE
+slice_when returns and array,FALSE it returns and enumerator
+each_cons returns nil,TRUE if block passed else ruturns enumerator
